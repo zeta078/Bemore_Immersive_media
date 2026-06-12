@@ -1,5 +1,6 @@
 # 날씨 기능 설정
 OPENWEATHER_API_KEY = "OpenWeatherMap API 키를 입력하세요"
+"OpenWeatherMap API 키 : 64b9199d21f5bdb917b58005ba085054"
 WEATHER_CITY = "Jeonju"
 WEATHER_CITY_DISPLAY_NAME = "전주"
 WEATHER_LANG = "kr"
