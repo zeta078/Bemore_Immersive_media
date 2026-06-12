@@ -1,0 +1,8 @@
+requests
+pillow
+numpy
+scipy
+sounddevice
+faster-whisper
+edge-tts
+keyboard
